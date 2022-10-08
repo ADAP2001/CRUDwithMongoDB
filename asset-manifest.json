@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CRUDwithMongoDB/static/css/main.53bcab0a.css",
-    "main.js": "/CRUDwithMongoDB/static/js/main.474ece62.js",
+    "main.js": "/CRUDwithMongoDB/static/js/main.cebea025.js",
     "index.html": "/CRUDwithMongoDB/index.html",
     "main.53bcab0a.css.map": "/CRUDwithMongoDB/static/css/main.53bcab0a.css.map",
-    "main.474ece62.js.map": "/CRUDwithMongoDB/static/js/main.474ece62.js.map"
+    "main.cebea025.js.map": "/CRUDwithMongoDB/static/js/main.cebea025.js.map"
   },
   "entrypoints": [
     "static/css/main.53bcab0a.css",
-    "static/js/main.474ece62.js"
+    "static/js/main.cebea025.js"
   ]
 }
