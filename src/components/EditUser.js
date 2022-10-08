@@ -28,7 +28,7 @@ function EditUser() {
                 email,
                 gender
             });
-            navigate("/");
+            navigate("/CRUDwithMongoDB");
         } catch (error) {
             console.log(error)
         }
