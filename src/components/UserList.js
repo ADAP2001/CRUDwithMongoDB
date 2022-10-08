@@ -27,7 +27,7 @@ const UserList = () => {
     return (
         <div className="columns">
             <div className="column is-half">
-                <Link to="/add" className='button is-success'>
+                <Link to="/CRUDwithMongoDB/add" className='button is-success'>
                     Add New
                 </Link>
                 <table className='table is-striped is-fullwidth mt-5'>
@@ -49,7 +49,7 @@ const UserList = () => {
                                 <td>{user.gender}</td>
                                 <td>
                                     <Link
-                                        to={`edit/${user._id}`}
+                                        to={`CRUDwithMongoDB/edit/${user._id}`}
                                         className='button is-info is-small'>
                                         Edit
                                     </Link>
