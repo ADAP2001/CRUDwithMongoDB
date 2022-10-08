@@ -49,7 +49,7 @@ const UserList = () => {
                                 <td>{user.gender}</td>
                                 <td>
                                     <Link
-                                        to={`CRUDwithMongoDB/edit/${user._id}`}
+                                        to={`edit/${user._id}`}
                                         className='button is-info is-small'>
                                         Edit
                                     </Link>
